@@ -1,6 +1,9 @@
-# My vimrc settings
+# MacOS setup
 
-My minimalist and unprofessional [vimrc](http://vim.wikia.com/wiki/Open_vimrc_file) settings.
+Things I need for a new MacOS:
+
+1. .vimrc
+2. .zshrc
 
 ### Credits:
 
