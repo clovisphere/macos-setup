@@ -3,7 +3,7 @@
 Things I need for a new MacOS:
 
 1. .vimrc
-2. .zshrc
+2. [.zshrc](https://ohmyz.sh/)
 
 ### Credits:
 
