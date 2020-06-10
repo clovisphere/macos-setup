@@ -30,9 +30,18 @@ set ts=4
 "  let NERDTreeShowHidden=1     " uncomment for it to take effect
 
 syntax on
-" Color-scheme
-set background=dark
-colorscheme hybrid_material     " awesome colorscheme
+
+" For Dracula theme
+set termguicolors
+let g:dracula_colorterm = 0
+let g:dracula_italic = 0
+packadd! dracula
+colorscheme dracula
+
+" Or use the below
+" set background=dark
+" colorscheme solarized8_high or hybrid_material (make sure they are installed)
+
 " Editing behaviour {{{
 set showmode                    " always show what mode we're currently editing in
 set nowrap                      " don't wrap lines
